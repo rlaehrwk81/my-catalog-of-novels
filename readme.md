@@ -14,7 +14,7 @@ A personal novel review showcase
 - Animated particles background
 - Responsive design
 ## Live Demo
-[View Project] https://rlaehrwk81.github.io/mi-catalogo-de-lecturas/
+View project:https://rlaehrwk81.github.io/my-catalog-of-novels/
 ![Preview](preview.png)
 ## My learning journey
 This was my very first project created from scratch using VS Code.It represents my introduction to professional web developer,where I successfully mastered the basics of HTML5,CSS3 and JavaScript logic in two weeks.It marks the beginning of my journey to becoming a Full Stack Developer.
